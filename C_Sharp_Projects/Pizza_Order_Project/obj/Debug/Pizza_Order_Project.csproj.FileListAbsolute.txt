@@ -1,0 +1,11 @@
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.csproj.AssemblyReference.cache
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.Properties.Resources.resources
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.csproj.GenerateResource.cache
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.csproj.CoreCompileInputs.cache
+C:\Users\3amer\Desktop\Pizza_Order_Project\bin\Debug\Pizza_Order_Project.exe.config
+C:\Users\3amer\Desktop\Pizza_Order_Project\bin\Debug\Pizza_Order_Project.exe
+C:\Users\3amer\Desktop\Pizza_Order_Project\bin\Debug\Pizza_Order_Project.pdb
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.frm_MakePizza.resources
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.exe
+C:\Users\3amer\Desktop\Pizza_Order_Project\obj\Debug\Pizza_Order_Project.pdb
