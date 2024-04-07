@@ -1,11 +1,14 @@
 #include <iostream>
 using namespace std;
+
 enum enQestionLevels { Easy = 1, Med = 2, Hard = 3, Mix = 4 };
 enum enQestionType { Add = 1, Sub = 2, Mul = 3, Div = 4, Mixx = 5 };
+
 struct questionVars
 {
 	float num1=0, num2=0, num3=0;
 };
+
 struct gameVars {
 	int qustionNumbers;
 	int qestionLevel;
@@ -13,8 +16,9 @@ struct gameVars {
 	int trueCounter=0;
 	int falseCounter=0;
 };
+
 int inputQustionNumbers(gameVars &game) {
-	cout << "how many qestion you want? ";
+	cout << "how many qestions you want? ";
 	cin >> game.qustionNumbers;
 	return game.qustionNumbers;
 }
@@ -24,7 +28,7 @@ int inputQustionLevel(gameVars &game) {
 	return game.qestionLevel;
 }
 int inputQustionType(gameVars &game) {
-	cout << "Enter qustion level [1] Add, [2] Sub, [3] Mul, [4] Div, [5] Mix ? ";
+	cout << "Enter qustion type [1] Add, [2] Sub, [3] Mul, [4] Div, [5] Mix ? ";
 	cin >> game.qestionType;
 	return game.qestionType;
 }
