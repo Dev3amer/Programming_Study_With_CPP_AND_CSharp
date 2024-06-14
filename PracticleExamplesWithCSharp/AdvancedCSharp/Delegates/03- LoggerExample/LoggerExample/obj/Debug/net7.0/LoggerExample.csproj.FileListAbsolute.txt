@@ -1,0 +1,15 @@
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\bin\Debug\net7.0\LoggerExample.exe
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\bin\Debug\net7.0\LoggerExample.deps.json
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\bin\Debug\net7.0\LoggerExample.runtimeconfig.json
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\bin\Debug\net7.0\LoggerExample.dll
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\bin\Debug\net7.0\LoggerExample.pdb
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.csproj.AssemblyReference.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.GeneratedMSBuildEditorConfig.editorconfig
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.AssemblyInfoInputs.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.AssemblyInfo.cs
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.csproj.CoreCompileInputs.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.dll
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\refint\LoggerExample.dll
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.pdb
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\LoggerExample.genruntimeconfig.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\01- Delegates Section\04- Examples And practice Part\LoggerExample\LoggerExample\obj\Debug\net7.0\ref\LoggerExample.dll

@@ -1,0 +1,4 @@
+Logger System:
+-Create a LoggerSystem class with a delegate for Log Data.
+-Implement methods for Log To File, and Log On Screen.
+-Subscribers can choose to Log data to File Or Log On Screen.

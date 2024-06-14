@@ -1,0 +1,3 @@
+Result After Adding 100 is : 110
+Result After Adding 100 is : 110
+Result After Subtracting 20 is : 90

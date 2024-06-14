@@ -1,0 +1,4 @@
+Calculator with Operations:
+-Create a Calculator class with a delegate for mathematical operations.
+-Implement methods for addition, subtraction, multiplication, and division.
+-Subscriber methods can perform different operations (e.g., display result, log to a file, store in memory).
