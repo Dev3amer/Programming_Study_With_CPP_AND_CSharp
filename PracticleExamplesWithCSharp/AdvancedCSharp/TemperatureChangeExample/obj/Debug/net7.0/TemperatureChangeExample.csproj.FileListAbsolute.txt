@@ -1,0 +1,15 @@
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\bin\Debug\net7.0\TemperatureChangeExample.exe
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\bin\Debug\net7.0\TemperatureChangeExample.deps.json
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\bin\Debug\net7.0\TemperatureChangeExample.runtimeconfig.json
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\bin\Debug\net7.0\TemperatureChangeExample.dll
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\bin\Debug\net7.0\TemperatureChangeExample.pdb
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.csproj.AssemblyReference.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.GeneratedMSBuildEditorConfig.editorconfig
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.AssemblyInfoInputs.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.AssemblyInfo.cs
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.csproj.CoreCompileInputs.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.dll
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\refint\TemperatureChangeExample.dll
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.pdb
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\TemperatureChangeExample.genruntimeconfig.cache
+P:\.NET Dev\Programming Advices\03- C# Programming Level 2\02- Events Section\01- C# EventHandler & EventArgs\Another Example\TemperatureChangeExample\obj\Debug\net7.0\ref\TemperatureChangeExample.dll
